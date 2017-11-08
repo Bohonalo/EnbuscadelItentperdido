@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">En busca del Itent perdido</string>
+    <string name="txtInicial">Hola, la búsqueda va a comenzar. Estate muy atento a las
+    indicaciones del juego, sólo así podrás encontrar el inent perdido.</string>
+    <string name="btnBusqueda">EMPIEZA LA BÚSQUEDA!</string>
+    <string name="etxNombre">Introduce un Nombre</string>
+    <string name="toast">Introduce tu nombre para comenzar.</string>
+    <string name="bienvenida">Bien %1$s, ya no hay vuelta atrás, ahora sólo hace falta que tu
+        valentía y tu sentido común te ayuden a encontrar el Itent que estamos buscando.</string>
+    <string name="btnLargo">Atajo Largo</string>
+    <string name="btnCorto">Atajo Corto</string>
+    <string name="vaya">VAYA, PARECE QUE NO HAS ELEGIDO EL CAMINO CORRECTO, PÚLSAME PARA PEDIR AYUDA.</string>
+    <string name="coger">coge la llave primero</string>
+    <string name="abrirPuerta">Abre la puerta</string>
+    <string name="main4">Has elegido el camino corrrecto %1$s, ya estás muy cerca del Intent perdido,
+    abre la puerta para comprobarlo.</string>
+    <string name="conLlave">volver con llave</string>
+    <string name="sinLlave">volver sin llave</string>
+    <string name="toast2">Necesitas llaves para poder abrir la puerta.</string>
+    <string name="aun">Aún sigues sin llave</string>
+    <string name="ya">Ya tienes la llave, ¡Puedes abrir la puerta!</string>
+    <string name="btnFelicidades">Felicidades!!! has encontrado el intent, sólo tienes que hacer clic para verlo.</string>
+    <string name="salir">Salir del juego</string>
+</resources>
